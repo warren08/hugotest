@@ -17,4 +17,8 @@ Morbi venenatis molestie ullamcorper. In imperdiet feugiat nisi sed tempor. Phas
 Maecenas ac ipsum faucibus nibh elementum pharetra. Maecenas tincidunt quam justo, at tempus nulla feugiat eu. Mauris hendrerit tortor turpis, vel feugiat leo congue ac. Vivamus malesuada risus urna, eu tincidunt ligula hendrerit et. Proin egestas consequat nulla ac lobortis. Praesent ullamcorper mi sed erat dapibus accumsan. Pellentesque tincidunt nisi ut libero condimentum consequat et nec quam.
 
 ## Heading
+<<<<<<< HEAD
 Praesent massa leo, condimentum quis lectus in, cursus congue eros. Quisque consequat consectetur mi vitae pretium. Sed placerat at augue eu interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices nec nulla at finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In accumsan risus vitae neque laoreet lobortis.
+=======
+Praesent massa leo, condimentum quis lectus in, cursus congue eros. Quisque consequat consectetur mi vitae pretium. Sed placerat at augue eu interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices nec nulla at finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In accumsan risus vitae neque laoreet lobortis.
+>>>>>>> 2d7cf06dee67bbe7803c339b0ca10ecf20e5096d
