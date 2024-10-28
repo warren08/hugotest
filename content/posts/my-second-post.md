@@ -5,4 +5,4 @@ title = 'My Second Post'
 +++
 
 
-testing
+I've updated this on my local machine and then committed the changes to GitHub. 
